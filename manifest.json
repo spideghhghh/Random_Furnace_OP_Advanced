@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Random OP Furnace Advanced Addon",
+    "name": "Random OP Furnace Advanced",
+    "uuid": "123e4567-e89b-12d3-a456-426614174100",
+    "version": [1,0,0]
+  },
+  "modules": [
+    {
+      "description": "Random Furnace OP Advanced Functions",
+      "type": "data",
+      "uuid": "123e4567-e89b-12d3-a456-426614174101",
+      "version": [1,0,0]
+    }
+  ]
+}
